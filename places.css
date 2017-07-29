@@ -1,0 +1,110 @@
+body{
+    margin:0px;
+    padding:0px;
+    font: 1em verdana, arial, sans-serif;
+    
+}
+#nav{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 150px;
+    padding:.5em 0 0;
+    margin: 22px 0 0 15;
+    border-top: 2px solid #600000;
+    border-bottom: 1px solid #69000;
+} 
+p{
+    color:#00000;
+    
+}
+img{
+    height: 1200%;
+    width: 1200%;
+    float:right;
+    clear: none:
+    margin: 0 0 10px 10px;
+}
+#nav ul{
+    margin-top: 0;
+    margin-bottom: .8em;
+}
+div #nav li{
+    margin-top: .5em;
+    font-weight: bold;
+    font-size: .75em;
+}
+ #content{
+    margin:  20px 150px 0 165px;
+    padding: 0 1em;
+}
+
+#content h1{
+    font-size: 1em;
+}
+#content p{
+    font-size: .8em;
+}
+
+ #content li{
+    font-size: .75em;
+}
+#rightcolumn{
+    position: absolute;
+    width: 125px;
+    top: 0px;
+    right: 0px;
+    margin: 20px 15px 0 0;
+    padding: 1em  .5em;
+    border-top: 2px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+#content p{
+    font-size:.75em;
+}
+button{
+    float:left;
+    clear:none;
+    
+}
+
+#clear{
+    float:none;
+    
+}
+#harry{
+    float:right;
+    clear:left;
+}
+#top{
+    height: 60px;
+    background-color: #ccc;
+}
+#top h1{
+    margin-top: 0;
+}
+#nav{
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    width: 150px;
+    padding: .5em 0 0 0;
+    margin: 22px 0 0 15px;
+    border-top: 2px solid #000000;
+    border-bottom:1px solid #00000;
+    
+}
+    
+img{
+    width:1024px;
+    height:384px;
+    display: inline-block;
+}
+
+footer{
+    color:#ffffff;
+}
+
+.clear {
+    clear: both;
+}
